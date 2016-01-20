@@ -12,7 +12,9 @@ import org.json.JSONTokener;
 
 import java.io.IOException;
 import java.net.URL;
-
+/**
+ * Remote end point util class
+ */
 public class RemoteEndpointUtil {
     private static final String TAG = "RemoteEndpointUtil";
 
