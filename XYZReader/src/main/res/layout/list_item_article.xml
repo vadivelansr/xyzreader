@@ -16,6 +16,7 @@
         >
 
         <!--suppress AndroidLintContentDescription -->
+        <!--Width changed to match_parent to display high quality images -->
         <ImageView
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
